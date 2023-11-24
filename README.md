@@ -1,4 +1,5 @@
 # Data-Science-Project
+The title of my project is 'The prediction of Chronic Heart Disease using a Machine Learning Model'.
 The data set is a cardiovascular data set. The data set was obtained from Research Gate after a long search for quantitative data.
 The data set was cleaned. I had to ensure there were no missing values too before the analysis began.
 As a cardiovascular scientist, I set out to carry out linear and logistic regression, find corellations between systolic blood pressure, age,family history, alcohol consumption, obesity AND chronic heart disease 
