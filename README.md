@@ -1,6 +1,6 @@
 # Data-Science-Project
 The data set is a cardiovascular data set. The data set was obtained from Research Gate after a long search for quantitative data.
-The data set was cleaned already. I had to ensure there were no missing values and all before the analysis began.
+The data set was cleaned. I had to ensure there were no missing values too before the analysis began.
 As a cardiovascular scientist, I set out to carry out linear and logistic regression, find corellations between systolic blood pressure, age,family history, alcohol consumption, obesity AND chronic heart disease 
 I could carry out the preliminary data exploratory, data cleaning process, visualization and feature Engineering.
 I could carry out clustering of my data set using KMeans.
